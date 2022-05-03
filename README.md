@@ -3,7 +3,7 @@
 Thereby, we are going to implement the following class hierarchy where
 <a rel="noopener noreferrer" href="https://docs.oracle.com/javase/7/docs/api/java/lang/Exception.html">Exception</a>
 from the Java standard library is used as the root class.</p>
-<p><img alt="" src="./Password Check_files/passwoerter.png"></p>
+<p><img alt="" src="https://syncandshare.lrz.de/dl/fiWP5TC9Sbsfdmz4vf26SjVV/passwoerter.png"></p>
 <p>For a password, the following minimal requirements may be enforced which, when absent, result in throwing
 an appropriate exception:</p>
 <ul>
